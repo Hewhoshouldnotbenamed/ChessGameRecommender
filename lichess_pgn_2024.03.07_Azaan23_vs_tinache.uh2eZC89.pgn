@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/uh2eZC89"]
+[Date "2024.03.07"]
+[White "Azaan23"]
+[Black "tinache"]
+[Result "1-0"]
+[UTCDate "2024.03.07"]
+[UTCTime "17:15:50"]
+[WhiteElo "1802"]
+[BlackElo "1712"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Caro-Kann Defense: Forgacs Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:54] } 3. Nc3 { [%clk 0:09:57] } 3... Bc5 { [%clk 0:09:49] } 4. Bc4 { [%clk 0:09:56] } 4... Nf6 { [%clk 0:09:44] } 5. d3 { [%clk 0:09:54] } { C50 Italian Game: Giuoco Pianissimo, Italian Four Knights Variation } 5... h6 { [%clk 0:09:42] } 6. h3 { [%clk 0:09:47] } 6... O-O { [%clk 0:09:39] } 7. Nd5 { [%clk 0:09:42] } 7... Nxd5 { [%clk 0:09:36] } 8. Bxd5 { [%clk 0:09:39] } 8... Ne7 { [%clk 0:09:35] } 9. Bc4 { [%clk 0:09:37] } 9... c6 { [%clk 0:09:32] } 10. Nxe5 { [%clk 0:09:35] } 10... d5 { [%clk 0:09:31] } 11. exd5 { [%clk 0:09:31] } 11... Nxd5 { [%clk 0:09:27] } 12. Bxd5 { [%clk 0:09:28] } 12... Qxd5 { [%clk 0:09:23] } 13. Nf3 { [%clk 0:09:27] } 13... Re8+ { [%clk 0:09:18] } 14. Kf1 { [%clk 0:09:19] } 14... Bf5 { [%clk 0:09:07] } 15. c4 { [%clk 0:09:15] } 15... Qd7 { [%clk 0:08:55] } 16. Kg1 { [%clk 0:09:05] } 16... Qxd3 { [%clk 0:08:52] } 17. Qxd3 { [%clk 0:09:03] } 17... Bxd3 { [%clk 0:08:51] } 18. Bf4 { [%clk 0:08:58] } 18... Bxc4 { [%clk 0:08:46] } 19. Rc1 { [%clk 0:08:54] } 19... Rad8 { [%clk 0:08:06] } 20. Rxc4 { [%clk 0:08:49] } 20... Rd1+ { [%clk 0:08:03] } 21. Kh2 { [%clk 0:08:48] } 21... Rxh1+ { [%clk 0:08:00] } 22. Kxh1 { [%clk 0:08:46] } 22... Bxf2 { [%clk 0:07:57] } 23. Kh2 { [%clk 0:08:41] } 23... g5 { [%clk 0:07:49] } 24. Be5 { [%clk 0:08:32] } 24... f5 { [%clk 0:07:32] } 25. Bc3 { [%clk 0:08:11] } 25... Kf7 { [%clk 0:07:24] } 26. Ne5+ { [%clk 0:08:07] } 26... Ke6 { [%clk 0:07:13] } 27. Nd3 { [%clk 0:07:59] } 27... Kd5 { [%clk 0:07:05] } 28. Rb4 { [%clk 0:07:41] } 28... Bb6 { [%clk 0:06:40] } 29. a4 { [%clk 0:07:29] } 29... a5 { [%clk 0:06:36] } 30. Rxb6 { [%clk 0:07:27] } { Black resigns. } 1-0
+
+
